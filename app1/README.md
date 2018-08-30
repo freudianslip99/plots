@@ -1,6 +1,6 @@
 # app1
 
-> A Vue.js project
+> Vue.js app template with navigation links 
 
 ## Build Setup
 
